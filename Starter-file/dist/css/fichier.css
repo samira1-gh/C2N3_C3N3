@@ -96,34 +96,3 @@
     border-radius: 8px; }
   .parti1 .section2__title {
     text-align: center; }
-  .parti1 .section2 .card {
-    display: grid;
-    grid-template-columns: 35% 35%;
-    grid-template-rows: 2;
-    justify-content: center;
-    margin-top: 6%; }
-    .parti1 .section2 .card__item1 {
-      grid-column: 1;
-      grid-row: 1;
-      margin-left: 40%; }
-      .parti1 .section2 .card__item1--under {
-        margin: 0; }
-    .parti1 .section2 .card__item2 {
-      grid-column: 1;
-      grid-row: 2;
-      margin-left: 30%;
-      margin-top: 7%; }
-    .parti1 .section2 .card__item3 {
-      grid-column: 2;
-      grid-row: 1;
-      margin-left: 40%; }
-      .parti1 .section2 .card__item3--under {
-        margin: 0; }
-    .parti1 .section2 .card__item4 {
-      grid-column: 2;
-      grid-row: 2;
-      margin-left: 40%;
-      margin-top: 13%; }
-      .parti1 .section2 .card__item4--under {
-        margin: 0;
-        padding: 0; }
