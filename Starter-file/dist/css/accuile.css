@@ -1,0 +1,36 @@
+.parti1 {
+  display: flex; }
+  .parti1__sam1 {
+    margin-top: 20px;
+    margin-left: 14px;
+    width: 800px;
+    height: 500px; }
+  .parti1__sam2--1 {
+    position: absolute;
+    left: 40%;
+    top: 60%;
+    color: #1078AD;
+    text-align: center;
+    font-size: xx-large;
+    width: 68%; }
+  .parti1__sam2--img2 {
+    bottom: 200px;
+    justify-content: center;
+    margin-left: 70%; }
+  .parti1__sam2--paragraph2 {
+    color: #7F7F7F;
+    text-align: center;
+    font-size: xx-large;
+    width: 68%;
+    margin-left: 40%; }
+  .parti1__sam2--button2 {
+    align-items: center;
+    background-color: #1078AD;
+    border: 1px solid #1078AD;
+    width: 600px;
+    height: 50px;
+    margin-left: 20%;
+    margin-bottom: 10%;
+    color: #fff;
+    font-size: xx-large;
+    border-radius: 8px; }
